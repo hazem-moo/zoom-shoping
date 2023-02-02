@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "reactNative",
-    "slug": "reactNative",
+    "name": "zoom-shoping",
+    "slug": "zoom-shoping",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/zoom.ico",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/zoom.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
